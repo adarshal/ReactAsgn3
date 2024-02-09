@@ -1,5 +1,10 @@
 # React + Vite
 
+Live site- https://adarshal.github.io/ReactAsgn3/
+
+To start in local computer; first install all dependencies using-> npm i
+<br>
+Then to run app cmd is -> npm run dev
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
